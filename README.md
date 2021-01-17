@@ -4,7 +4,7 @@ Provides a list of random manners to be generated as need.
 
 ## Install
 ```sh
-npm install @npmusername/random-manners
+npm install @vvantol2000/random-manners
 ```
 
 ## API
