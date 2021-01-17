@@ -1,0 +1,27 @@
+{
+  "name": "random-manners",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vantol Bennett",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titan-65/random-manners.git"
+  },
+  "keywords": [
+    "random",
+    "manners",
+    "titan65"
+  ],
+  "bugs": {
+    "url": "https://github.com/titan-65/random-manners/issues"
+  },
+  "homepage": "https://github.com/titan-65/random-manners#readme",
+  "description": "",
+  "devDependencies": {
+    "prettier": "2.2.1"
+  }
+}
